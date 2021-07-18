@@ -1,5 +1,4 @@
 #include <stdbool.h>
-#include "dlistItem.h"
 #ifndef DLLIST_H
 #define DLLIST_H
 typedef struct header *dllist;

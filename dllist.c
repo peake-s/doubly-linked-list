@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include "dllist.h"
-#include "dlistItem.h"
 
 typedef struct dnode{
   struct dnode *next;
